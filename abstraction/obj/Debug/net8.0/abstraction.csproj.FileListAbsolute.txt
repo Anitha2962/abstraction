@@ -1,0 +1,4 @@
+D:\C# PROJECTS\abstraction\abstraction\obj\Debug\net8.0\abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PROJECTS\abstraction\abstraction\obj\Debug\net8.0\abstraction.AssemblyInfoInputs.cache
+D:\C# PROJECTS\abstraction\abstraction\obj\Debug\net8.0\abstraction.AssemblyInfo.cs
+D:\C# PROJECTS\abstraction\abstraction\obj\Debug\net8.0\abstraction.csproj.CoreCompileInputs.cache
